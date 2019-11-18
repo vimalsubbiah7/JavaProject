@@ -1,2 +1,5 @@
 # JavaProject
 java project for the 3rd semester
+
+FOR DETAILED INFORMATION ON ThE WHOLE PROJECT
+           THE PROJECT REPORT IS TITLED LIBRARY MANAGEMENT.PDF
