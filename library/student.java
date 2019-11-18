@@ -1,7 +1,7 @@
 package library;
 
 import java.util.Scanner;    
-public class student {
+public class student extends students{
 
 String studentName;
 String regNum;

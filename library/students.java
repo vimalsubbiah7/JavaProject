@@ -53,6 +53,7 @@ public int isStudent(){
 
     System.out.println("Enter Reg Number:");
     String regNum = input.nextLine();
+    try{
 
     for (int i=0; i<count; i++){
 
@@ -69,6 +70,12 @@ public int isStudent(){
 
     return -1;
 
+}
+
+catch(Exception e){
+    System.out.println("Invalid Entry");
+     }
+     return -1;
 }
 public void checkOutBook(books book){
     int studentIndex =this.isStudent();

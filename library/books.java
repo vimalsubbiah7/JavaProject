@@ -2,7 +2,7 @@ package library;
 
 import java.util.Scanner;
 
-public class books {
+public class books extends book {
 
 book theBooks[] = new book[50];     // Array that stores 'book' Objects.
 public static int count;    // Counter for No of book objects Added in Array.
